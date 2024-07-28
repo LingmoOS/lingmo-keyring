@@ -10,7 +10,7 @@ depends=('lpm')
 makedepends=('git' 'python' 'sequoia-sq' 'pkgconf' 'systemd')
 checkdepends=('python-coverage' 'python-pytest')
 source=("git+https://github.com/LingmoOS/lingmo-keyring")
-sha256sums=('139bb9d1bf831b35e4819fdec6706dcfee046f6f7d704b0f742742673f4d5a20')
+sha256sums=('SKIP')
 validpgpkeys=('41EF7182553A87AC18196A77F27F2FDA54F067D8') # Lingmo OS Team <team@lingmo.org>
 
 build() {
